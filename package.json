@@ -1,0 +1,25 @@
+{
+  "name": "applitools-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msharma-tw/applitools-hackathon.git"
+  },
+  "keywords": [],
+  "author": "msharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msharma-tw/applitools-hackathon/issues"
+  },
+  "homepage": "https://github.com/msharma-tw/applitools-hackathon#readme",
+  "devDependencies": {
+    "@applitools/eyes-testcafe": "^1.11.1",
+    "eyes": "^0.1.8",
+    "testcafe": "^1.9.4"
+  }
+}
